@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "431380152679",
+    "firebase_url": "https://smsserver-80b8e.firebaseio.com",
+    "project_id": "smsserver-80b8e",
+    "storage_bucket": "smsserver-80b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431380152679:android:689e699be9213dcb",
+        "android_client_info": {
+          "package_name": "com.csit.smsserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431380152679-ooqi2vm8dgs89is5holrsmk63pih3s9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcABplBEE3F3jfJNbzAgkZlyDls5IGKpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
